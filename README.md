@@ -6,6 +6,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Software Engineering is a systematic approach to software developement stating from analysis to evaluation. Software engineering can not be over emphasise, without software engineering development of quality and efficient applications can not be achived.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
@@ -35,8 +36,4 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-
-# ANSWER
-Software Engineering is a systematic approach to software developement stating from analysis to evaluation. Software engineering can not be over emphasise, without software engineering development of quality and efficient applications can not be achived.
-
 
